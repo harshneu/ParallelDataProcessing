@@ -1,0 +1,1 @@
+For MapReduce, compare Combiners to the in-mapper combining design pattern. Use keys,comparators, and Partitioner to implement secondary sort. Then explore how this would beimplemented in Spark Scala.
